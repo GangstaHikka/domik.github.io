@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "70137c28e6b2ae2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4173bf7f3e79e348",
+        "type": "leaf",
+        "active": true,
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mask.md",
+            "mode": "source"
+          },
+          "pinned": true
+        },
+        "group": "7d60dc7af951f4f5"
+      },
+      {
+        "id": "b54ec9aa3d9b358b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mask.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7d60dc7af951f4f5"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5541d78640b2137",
+    "type": "split",
+    "children": [
+      {
+        "id": "44cbf30df88d62d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b48d98c908120be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "12047b4e9821ae8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344
+  },
+  "right": {
+    "id": "c544c8d63846e75c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e583c512d9a3523b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb55880b2e654729",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mask.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Mask.md",
+    "Nodes.md",
+    "Part 1.md",
+    "Parts Binding System.md",
+    "Placeable Object.md",
+    "README.md",
+    "Start Node.md",
+    "assets/screenshots/Pasted image 20210105173537.png",
+    "End Node.md",
+    "House Generator.md"
+  ]
+}
