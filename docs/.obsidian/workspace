@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mask.md",
+            "file": "Getting Started/Getting Started.md",
             "mode": "source"
           },
           "pinned": true
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mask.md",
+            "file": "Getting Started/Getting Started.md",
             "mode": "preview"
           }
         },
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mask.md",
+                "file": "Getting Started/Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Getting Started/Getting Started.md",
+    "Getting Started/Add new furniture.md",
+    "Getting Started.md",
     "Mask.md",
     "Nodes.md",
     "Part 1.md",
     "Parts Binding System.md",
     "Placeable Object.md",
     "README.md",
-    "Start Node.md",
-    "assets/screenshots/Pasted image 20210105173537.png",
-    "End Node.md",
-    "House Generator.md"
+    "Start Node.md"
   ]
 }
