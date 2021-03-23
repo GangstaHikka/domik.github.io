@@ -33,8 +33,23 @@ Buy it on asset store and import by Package Manager
 
 ![[drag-n-drop.gif]]
 
-Success! You made your first procedural house ;)
+Congrats!
 
+Now let's make them more.
+1. Select **House Example Prefab** in the **Hierarchy**.
+2. Press **Ctrl-D** to duplicate prefab instance in the scene. 
+3. Change the position on duplicated house by dragging gizmo handle.
+4. Click **Generate Random** button to regenerate it.
+5. Repeat.
+
+![[multiple houses.gif]]
+
+Wonderful bunch of houses, isn't it?
+
+<br/>
+
+You can also regenerate some house to change it's look.
+![[regen.gif]]
 
 
 **TODO:** все примеры создаваемой мебели разделить на колонны и описывать отдельно, чтобы чувак мог посмотреть как создать другой тип мебели просто кликнув на другую колонку. Колонок будет много, от самой простой вроде коробки на полу, до сложной, вроде лестницы, где надо будет создавать свою маску и лезть в пайплайн. Также будет и вариант, где надо будет сделать кастомный Place
