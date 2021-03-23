@@ -36,11 +36,13 @@ Buy it on asset store and import by Package Manager
 Congrats!
 
 Now let's make them more.
+
 1. Select **House Example Prefab** in the **Hierarchy**.
 2. Press **Ctrl-D** to duplicate prefab instance in the scene. 
 3. Change the position on duplicated house by dragging gizmo handle.
 4. Click **Generate Random** button to regenerate it.
 5. Repeat.
+
 
 ![[multiple houses.gif]]
 
