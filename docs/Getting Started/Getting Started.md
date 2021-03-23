@@ -21,20 +21,14 @@
 
 ## **Create your first procedural house**
 
-TEST TEST TEST
+1. Open the Domik folder.
+2. Select **House Example prefab**.
+3. Drag-n-Drop it on the scene.
+4. Click **Generate From Random** button.
 
-Buy it on asset store and import by Package Manager
-==Import gif==
+![[drag-n-drop.gif]]
 
-**Open** the Domik folder -> select **House Generator** prefab and **Drag-n-Drop** it on the scene.
-
-==drag-n-drop gif==
-
-Select House Generator on the scene -> Click **Generate From Random** button.
-
-==generate gif==
-
-Success! You made your first procedural house ;)
+Success! You made your first procedural house!
 
 
 
