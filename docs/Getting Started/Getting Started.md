@@ -21,9 +21,7 @@
 
 ## **Create your first procedural house**
 
-
-Buy it on asset store and import by Package Manager
-==Import gif==
+![[drag-n-drop.gif]]
 
 1. Open the **Domik** folder 
 2. Select **House Example prefab** 
@@ -31,20 +29,17 @@ Buy it on asset store and import by Package Manager
 4. Select it on the scene 
 5. Click **Generate From Random** button in the Inspector.
 
-![[drag-n-drop.gif]]
-
 Congrats!
 
-Now let's make them more.
+Now let's **make them more**.
+
+![[multiple houses.gif]]
 
 1. Select **House Example Prefab** in the **Hierarchy**.
 2. Press **Ctrl-D** to duplicate prefab instance in the scene. 
 3. Change the position on duplicated house by dragging gizmo handle.
 4. Click **Generate Random** button to regenerate it.
 5. Repeat.
-
-
-![[multiple houses.gif]]
 
 Wonderful bunch of houses, isn't it?
 
