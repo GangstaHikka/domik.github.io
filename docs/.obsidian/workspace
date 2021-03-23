@@ -6,7 +6,6 @@
       {
         "id": "4173bf7f3e79e348",
         "type": "leaf",
-        "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,6 +20,7 @@
       {
         "id": "b54ec9aa3d9b358b",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -102,6 +102,7 @@
   },
   "lastOpenFiles": [
     "Getting Started/Getting Started.md",
+    "Getting Started/Create Preview System.md",
     "Getting Started.md",
     "Getting Started/Add new furniture.md",
     "House Generator.md",
@@ -109,7 +110,6 @@
     "Mask.md",
     "Nodes.md",
     "Part 1.md",
-    "Parts Binding System.md",
-    "Placeable Object.md"
+    "Parts Binding System.md"
   ]
 }
