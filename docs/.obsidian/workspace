@@ -6,12 +6,13 @@
       {
         "id": "4173bf7f3e79e348",
         "type": "leaf",
+        "dimension": 35.14442916093535,
         "active": true,
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Getting Started/Getting Started.md",
+            "file": "New/DeepDiveIntoHouseBuildingProcess.md",
             "mode": "source"
           },
           "pinned": true
@@ -21,10 +22,11 @@
       {
         "id": "b54ec9aa3d9b358b",
         "type": "leaf",
+        "dimension": 64.85557083906464,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Getting Started/Getting Started.md",
+            "file": "New/DeepDiveIntoHouseBuildingProcess.md",
             "mode": "preview"
           }
         },
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Getting Started/Getting Started.md",
+                "file": "New/DeepDiveIntoHouseBuildingProcess.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +103,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Getting Started/Getting Started.md",
-    "Getting Started/Create Preview System.md",
-    "Getting Started.md",
-    "Getting Started/Add new furniture.md",
-    "House Generator.md",
-    "How to make a place.md",
-    "Mask.md",
-    "Nodes.md",
-    "Part 1.md",
-    "Parts Binding System.md"
+    "New/DeepDiveIntoHouseBuildingProcess.md",
+    "New/Deep dive into house building process.md",
+    "assets/screenshots/Pipeline advanced.png",
+    "assets/screenshots/Place Part Node.png",
+    "assets/screenshots/Place Interiors Node.png",
+    "assets/screenshots/Pasted image 20210106170727.png",
+    "assets/screenshots/Pasted image 20210105164400.png",
+    "assets/screenshots/Pasted image 20210105163924.png",
+    "assets/screenshots/Pasted image 20210105162211.png",
+    "assets/screenshots/Pasted image 20210105141516.png"
   ]
 }
