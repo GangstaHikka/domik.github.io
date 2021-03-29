@@ -110,7 +110,7 @@ Priority of skins asking from highest to lowest:
     	![[Pasted image 20210329185529.png]]
 		
 		
-	=== "House Generator Skins"
+	=== "House Base Skins"
 
     	![[Pasted image 20210329185651.png]]
 
@@ -125,9 +125,32 @@ So interior skins has always higher priority than house skins and by this reason
 
 **Override Skin Layers** were created for special cases when you want to change view of some special cells filtered by your own rules in the Pipeline.
 
-If there is no PartBuilder for some part this part will be ignoring during house building.
+If there is no PartBuilder for some part this part will be ignored during house building.
 
 So in the result it returns a structured collection of PartBuilders - a **House Build Data**. 
+
+
+??? Abstract "Representation in code"
+
+	=== "Floors"
+	
+		![[Снимок экрана 2021-03-29 195441.jpg]]
+
+	=== "Floor"
+
+    	![[Снимок экрана 2021-03-29 195559.jpg]]
+		
+	=== "Room"
+
+    	![[Снимок экрана 2021-03-29 195702.jpg]]
+		
+	=== "Cell"
+
+    	![[Снимок экрана 2021-03-29 195836.jpg]]
+
+
+
+
 
 ## 3. **Building of the house by the house build data.**
 

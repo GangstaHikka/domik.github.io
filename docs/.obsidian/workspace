@@ -6,14 +6,12 @@
       {
         "id": "4173bf7f3e79e348",
         "type": "leaf",
-        "dimension": 35.14442916093535,
-        "active": true,
+        "dimension": 48.55570839064649,
         "pinned": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "New/DeepDiveIntoHouseBuildingProcess.md",
-            "mode": "source"
+            "file": "Снимок экрана 2021-03-29 195702.jpg"
           },
           "pinned": true
         },
@@ -22,12 +20,12 @@
       {
         "id": "b54ec9aa3d9b358b",
         "type": "leaf",
-        "dimension": 64.85557083906464,
+        "dimension": 51.44429160935351,
+        "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "New/DeepDiveIntoHouseBuildingProcess.md",
-            "mode": "preview"
+            "file": "Снимок экрана 2021-03-29 195702.jpg"
           }
         },
         "group": "7d60dc7af951f4f5"
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/DeepDiveIntoHouseBuildingProcess.md",
+                "file": "Снимок экрана 2021-03-29 195702.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +101,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Снимок экрана 2021-03-29 195702.jpg",
     "New/DeepDiveIntoHouseBuildingProcess.md",
     "New/Deep dive into house building process.md",
     "assets/screenshots/Pipeline advanced.png",
@@ -111,7 +110,6 @@
     "assets/screenshots/Pasted image 20210106170727.png",
     "assets/screenshots/Pasted image 20210105164400.png",
     "assets/screenshots/Pasted image 20210105163924.png",
-    "assets/screenshots/Pasted image 20210105162211.png",
-    "assets/screenshots/Pasted image 20210105141516.png"
+    "assets/screenshots/Pasted image 20210105162211.png"
   ]
 }
