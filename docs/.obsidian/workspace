@@ -6,29 +6,28 @@
       {
         "id": "4173bf7f3e79e348",
         "type": "leaf",
-        "dimension": 48.55570839064649,
-        "pinned": true,
+        "dimension": 31.086657496561212,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Снимок экрана 2021-03-29 195702.jpg"
-          },
-          "pinned": true
-        },
-        "group": "7d60dc7af951f4f5"
-      },
-      {
-        "id": "b54ec9aa3d9b358b",
-        "type": "leaf",
-        "dimension": 51.44429160935351,
-        "active": true,
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "Снимок экрана 2021-03-29 195702.jpg"
+            "file": "New/How to change facade.md",
+            "mode": "source"
           }
         },
-        "group": "7d60dc7af951f4f5"
+        "group": "3c62f2bf7659835a"
+      },
+      {
+        "id": "e3cc79e047ef6665",
+        "type": "leaf",
+        "dimension": 68.91334250343878,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "New/How to change facade.md",
+            "mode": "preview"
+          }
+        },
+        "group": "3c62f2bf7659835a"
       }
     ],
     "direction": "vertical"
@@ -84,10 +83,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Снимок экрана 2021-03-29 195702.jpg",
+                "file": "New/How to change facade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,16 +101,17 @@
     "width": 214,
     "collapsed": true
   },
+  "active": "4173bf7f3e79e348",
   "lastOpenFiles": [
-    "Снимок экрана 2021-03-29 195702.jpg",
-    "New/DeepDiveIntoHouseBuildingProcess.md",
-    "New/Deep dive into house building process.md",
-    "assets/screenshots/Pipeline advanced.png",
-    "assets/screenshots/Place Part Node.png",
-    "assets/screenshots/Place Interiors Node.png",
-    "assets/screenshots/Pasted image 20210106170727.png",
-    "assets/screenshots/Pasted image 20210105164400.png",
-    "assets/screenshots/Pasted image 20210105163924.png",
-    "assets/screenshots/Pasted image 20210105162211.png"
+    "New/How to change facade.md",
+    "New/How to create new interior.md",
+    "New/How to create new floor.md",
+    "New/What is a Placeable Object.md",
+    "New/Untitled.md",
+    "New/How to create Place.md",
+    "New/How to change room walls.md",
+    "New/How to change house floors.md",
+    "New/How to change house size.md",
+    "New/How to add new futniture.md"
   ]
 }
