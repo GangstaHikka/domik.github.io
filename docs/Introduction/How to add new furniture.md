@@ -7,7 +7,7 @@ Skins system provides it.
 That's how this system works:
 You clicks **Generate button** -> **House Generator** requests it's **Pipeline** generate house cells (each cell is a container of parts) -> The **Pipeline** returns house cells -> **House Generator** iterates over all cells and then asks **skins** if they have some view (**PartBuilder**) for this part of the cell and if it found **House Generator** sends request to build it.
 
-Read more: 	[[DeepDiveIntoHouseBuildingProcess]]
+Read more: 	[[Deep Dive Into House Building Process]]
 
 Lets add new chair to see how it works.
 There is two workflow which you can use to add new house parts:

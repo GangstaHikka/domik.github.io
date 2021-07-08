@@ -73,6 +73,7 @@ plugins:
   - search
   - roamlinks
   - redirects
+  - mkdocs-video
   - minify:
       minify_html: true
 
@@ -137,15 +138,20 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting Started:
-    - Getting Started: Getting Started/Getting Started.md
-    - Create Preview System: Getting Started/Create Preview System.md
-    - Add new furniture: Getting Started/Add new furniture.md
-    - Change wallpapers: Getting Started/Change wallpapers.md
-    - Change an interior furniture look: Getting Started/Change an interior furniture look.md
-    - Change exterior: Getting Started/Change exterior.md
-    - Create Interior: Getting Started/Create Interior.md
-    - Create Pipeline: Getting Started/Create Pipeline.md
+  - Introduction:
+    - Getting Started: Introduction/Getting Started.md
+    - How to add new furniture: Introduction/How to add new furniture.md
+    - How to change facade: Introduction/How to change facade.md
+    - How to change house floors: Introduction/How to change house floors.md
+    - How to change house size: Introduction/How to change house size.md
+    - How to change room walls: Introduction/How to change room walls.md
+    - How to create Mask: Introduction/How to create Mask.md
+    - How to create new floor: Introduction/How to create new floor.md
+    - How to create new interior: Introduction/How to create new interior.md
+    - How to create place: Introduction/How to create Place.md
+    - What are floor tags: Introduction/What are floor tags.md
+    - What is a Placeable Object: Introduction/What is a Placeable Object.md
+    - What is a Preview system: Introduction/What is a Preview system.md
   - Overview:
     - Getting Started: Getting Started.md
     - House Generator: House Generator.md

@@ -6,11 +6,11 @@
       {
         "id": "4173bf7f3e79e348",
         "type": "leaf",
-        "dimension": 31.086657496561212,
+        "dimension": 36.86382393397524,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New/How to change facade.md",
+            "file": "Introduction/What are floor tags.md",
             "mode": "source"
           }
         },
@@ -19,12 +19,12 @@
       {
         "id": "e3cc79e047ef6665",
         "type": "leaf",
-        "dimension": 68.91334250343878,
+        "dimension": 63.13617606602476,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "New/How to change facade.md",
-            "mode": "preview"
+            "file": "Introduction/What are floor tags.md",
+            "mode": "source"
           }
         },
         "group": "3c62f2bf7659835a"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/How to change facade.md",
+                "file": "Introduction/What are floor tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "4173bf7f3e79e348",
   "lastOpenFiles": [
-    "New/How to change facade.md",
-    "New/How to create new interior.md",
-    "New/How to create new floor.md",
-    "New/What is a Placeable Object.md",
-    "New/Untitled.md",
-    "New/How to create Place.md",
-    "New/How to change room walls.md",
-    "New/How to change house floors.md",
-    "New/How to change house size.md",
-    "New/How to add new futniture.md"
+    "Introduction/What are floor tags.md",
+    "Intrudoction/Getting Started.md",
+    "Intrudoction/How to add new futniture.md",
+    "Knowledge Base/Modular System Adaptation.md",
+    "parts_grid_forward_left.png",
+    "Pasted image 20210104210708.png",
+    "Pasted image 20210106170727.png",
+    "Pasted image 20210103192742.png",
+    "Pasted image 20210402161447.png",
+    "Pasted image 20210104200245.png"
   ]
 }
