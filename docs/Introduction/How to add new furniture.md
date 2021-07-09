@@ -5,7 +5,11 @@ If you want to add new furniture you should add new part.
 Part is an abstract idea of some object, so you need to add view to it also. 
 Skins system provides it. 
 That's how this system works:
-You clicks **Generate button** -> **House Generator** requests it's **Pipeline** generate house cells (each cell is a container of parts) -> The **Pipeline** returns house cells -> **House Generator** iterates over all cells and then asks **skins** if they have some view (**PartBuilder**) for this part of the cell and if it found **House Generator** sends request to build it.
+
+1. You clicks **Generate button** 
+2. **House Generator** requests it's **Pipeline** generate house cells (each cell is a container of parts) 
+3. The **Pipeline** returns house cells 
+4. **House Generator** iterates over all cells and then asks **skins** if they have some view (**PartBuilder**) for this part of the cell and if it found **House Generator** sends request to build it.
 
 Read more: 	[[Deep Dive Into House Building Process]]
 

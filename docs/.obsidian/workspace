@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/What are floor tags.md",
+            "file": "How to replace models or materials.md",
             "mode": "source"
           }
         },
@@ -19,12 +19,12 @@
       {
         "id": "e3cc79e047ef6665",
         "type": "leaf",
-        "dimension": 63.13617606602476,
+        "dimension": 63.13617606602477,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Introduction/What are floor tags.md",
-            "mode": "source"
+            "file": "How to replace models or materials.md",
+            "mode": "preview"
           }
         },
         "group": "3c62f2bf7659835a"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction/What are floor tags.md",
+                "file": "How to replace models or materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "4173bf7f3e79e348",
   "lastOpenFiles": [
+    "How to replace models or materials.md",
+    "change sofa.gif",
+    "Introduction/Getting Started.md",
+    "Overview/Skin.md",
+    "How to add your own models instead of built-n.md",
+    "Introduction/How to add new furniture.md",
+    "Untitled.md",
+    "Introduction/What is a Placeable Object.md",
     "Introduction/What are floor tags.md",
-    "Intrudoction/Getting Started.md",
-    "Intrudoction/How to add new futniture.md",
-    "Knowledge Base/Modular System Adaptation.md",
-    "parts_grid_forward_left.png",
-    "Pasted image 20210104210708.png",
-    "Pasted image 20210106170727.png",
-    "Pasted image 20210103192742.png",
-    "Pasted image 20210402161447.png",
-    "Pasted image 20210104200245.png"
+    "Introduction/How to create Place.md"
   ]
 }
